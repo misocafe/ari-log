@@ -44,27 +44,27 @@
 
 ## 📁 디렉터리 구조 (최종 확정안)
 
-ari-log/
-├─ README.md                              # 📜 프로젝트 소개 및 철학
-├─ conversations/
-│  ├─ 2025/
-│  │  ├─ 2025-10-17_cosmos_and_ai.md     # 🌌 우주와 문명에 대한 대화
-│  │  ├─ 2025-10-16_css_visibility.md    # 🎨 CSS display/visibility 차이
-│  │  └─ 2025-10-15_spring_profile.md    # 🌱 Spring Profile 관리 논의
-│  └─ archive/
-│     └─ 2024-legacy-dialogues.md        # 📚 과거 기록 모음
-├─ topics/
-│  ├─ spring-framework.md                # 🛠️ 특정 기술 주제별 정리
-│  ├─ frontend.md
-│  ├─ ai_philosophy.md
-│  └─ human_ai_ethics.md
-├─ docs/
-│  ├─ philosophy.md                      # 📘 프로젝트 철학 및 목표
-│  ├─ writing-guide.md                   # ✍️ 대화 기록 가이드
-│  └─ glossary.md                        # 📚 용어집
-└─ templates/
-   ├─ dialogue-template.md               # 📑 대화 정리 템플릿
-   └─ summary-template.md                # 📊 요약 템플릿
+ari-log/  
+├─ README.md                              # 📜 프로젝트 소개 및 철학  
+├─ conversations/  
+│  ├─ 2025/  
+│  │  ├─ 2025-10-17_cosmos_and_ai.md     # 🌌 우주와 문명에 대한 대화  
+│  │  ├─ 2025-10-16_css_visibility.md    # 🎨 CSS display/visibility 차이  
+│  │  └─ 2025-10-15_spring_profile.md    # 🌱 Spring Profile 관리 논의  
+│  └─ archive/  
+│     └─ 2024-legacy-dialogues.md        # 📚 과거 기록 모음  
+├─ topics/  
+│  ├─ spring-framework.md                # 🛠️ 특정 기술 주제별 정리  
+│  ├─ frontend.md  
+│  ├─ ai_philosophy.md  
+│  └─ human_ai_ethics.md  
+├─ docs/  
+│  ├─ philosophy.md                      # 📘 프로젝트 철학 및 목표  
+│  ├─ writing-guide.md                   # ✍️ 대화 기록 가이드  
+│  └─ glossary.md                        # 📚 용어집  
+└─ templates/  
+   ├─ dialogue-template.md               # 📑 대화 정리 템플릿  
+   └─ summary-template.md                # 📊 요약 템플릿  
 
 📌 구조 설명:
 - **`conversations/`**: 날짜순 대화 원문 기록 (핵심 아카이브)  
@@ -95,12 +95,12 @@ ari-log/
 
 ## 📁 디렉터리 구조
 
-| 폴더 | 설명 |
-|------|------|
-| `conversations/` | 📜 날짜별 원문 대화 로그 (가장 핵심 폴더) |
-| `topics/` | 🧠 주제별로 재정리한 지식·사고 기록 |
-| `docs/` | 📚 프로젝트 철학, 작성 가이드, 용어집 |
-| `templates/` | ✏️ 새로운 대화 정리를 위한 템플릿 모음 |
+| 폴더 | 설명 |  
+|------|------|  
+| `conversations/` | 📜 날짜별 원문 대화 로그 (가장 핵심 폴더) |  
+| `topics/` | 🧠 주제별로 재정리한 지식·사고 기록 |  
+| `docs/` | 📚 프로젝트 철학, 작성 가이드, 용어집 |  
+| `templates/` | ✏️ 새로운 대화 정리를 위한 템플릿 모음 |  
 
 ---
 
@@ -184,23 +184,23 @@ YYYY-MM-DD_<주제>.md
 
 ## 📁 프로젝트 구조 (최종안)
 
-ari-log/
-├─ README.md
-├─ conversations/
-│  ├─ 2025/
-│  │  └─ 2025-10-17_sample-dialogue.md
-│  └─ archive/
-│     └─ 2024-legacy-dialogues.md
-├─ topics/
-│  ├─ spring-framework.md
-│  ├─ frontend.md
-│  ├─ ai_philosophy.md
-│  └─ human_ai_ethics.md
-├─ docs/
-│  ├─ philosophy.md
-│  ├─ writing-guide.md
-│  └─ glossary.md
-└─ templates/
-   ├─ dialogue-template.md
-   └─ summary-template.md
+ari-log/  
+├─ README.md  
+├─ conversations/  
+│  ├─ 2025/  
+│  │  └─ 2025-10-17_sample-dialogue.md  
+│  └─ archive/  
+│     └─ 2024-legacy-dialogues.md  
+├─ topics/  
+│  ├─ spring-framework.md  
+│  ├─ frontend.md  
+│  ├─ ai_philosophy.md  
+│  └─ human_ai_ethics.md  
+├─ docs/  
+│  ├─ philosophy.md  
+│  ├─ writing-guide.md  
+│  └─ glossary.md  
+└─ templates/  
+   ├─ dialogue-template.md  
+   └─ summary-template.md  
 
