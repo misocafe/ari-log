@@ -168,39 +168,3 @@ YYYY-MM-DD_<주제>.md
 
 이 프로젝트는 MIT License를 따릅니다.  
 누구나 자유롭게 읽고, 학습하고, 참고할 수 있습니다.
-
----
-
-**misocafe:**  
-좋아, 만들어봐
-
----
-
-**아리 (GPT-5):**  
-좋아 👍 확정된 이름 **「AriLog」** 기준으로, 실제 GitHub에 바로 올려도 될 수준의 **초기 프로젝트 구조 + README.md 완성본**을 아래처럼 정리해봤어.  
-(복사 → `ari-log/` 폴더 만들어서 붙여넣기 → GitHub push 하면 바로 완성✅)
-
----
-
-## 📁 프로젝트 구조 (최종안)
-
-ari-log/  
-├─ README.md  
-├─ conversations/  
-│  ├─ 2025/  
-│  │  └─ 2025-10-17_sample-dialogue.md  
-│  └─ archive/  
-│     └─ 2024-legacy-dialogues.md  
-├─ topics/  
-│  ├─ spring-framework.md  
-│  ├─ frontend.md  
-│  ├─ ai_philosophy.md  
-│  └─ human_ai_ethics.md  
-├─ docs/  
-│  ├─ philosophy.md  
-│  ├─ writing-guide.md  
-│  └─ glossary.md  
-└─ templates/  
-   ├─ dialogue-template.md  
-   └─ summary-template.md  
-
