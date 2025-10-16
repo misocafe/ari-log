@@ -92,7 +92,20 @@ AriLog는 시간이 지날수록
 
 ---
 
-## 7. 📜 라이선스 (License)
+## 7. 📜 주요 대화 기록 (Conversations)
+
+이 저장소에 기록된 대화들 중, 의미 있는 대표 사례들을 소개합니다.
+
+| 날짜 | 주제 | 링크 |  
+|------|------|------|  
+| 2025-10-17 | 🧭 AriLog 프로젝트 설계 논의 | [2025-10-17_arilog-project-blueprint.md](https://github.com/misocafe/ari-log/blob/main/conversations/2025/2025-10-17_arilog-project-blueprint.md) |  
+| 2025-10-16 | 🌌 외계 문명 존재 가능성에 대한 대화 | [2025-10-16_cosmic_civilization_dialogue.md](https://github.com/misocafe/ari-log/blob/main/conversations/2025/2025-10-16_cosmic_civilization_dialogue.md) |  
+
+👉 앞으로도 새로운 대화 로그가 추가될 때마다 이 목록을 확장해 나갈 예정입니다.
+
+---
+
+## 8. 📜 라이선스 (License)
 
 이 프로젝트는 MIT License(https://opensource.org/licenses/MIT)를 따릅니다.  
 누구나 자유롭게 읽고, 학습하고, 참고할 수 있습니다.
